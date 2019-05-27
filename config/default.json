@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Kenzo123:kenzo123@devconector-tfyow.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "d6d81d92dbd0eab3fb66",
+  "githubSecret": "1d2ebda505ff1d32c79903c735ebbed907377ba4"
+}
